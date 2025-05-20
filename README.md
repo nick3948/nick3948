@@ -15,4 +15,4 @@
 ---
 
 ### 📈 GitHub Stats
-![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nick3948&show_icons=true&theme=radical)
