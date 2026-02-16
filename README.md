@@ -5,10 +5,6 @@
 
 - 🔭 I’m currently working on **Job tracking application**
 
-- 🌱 I’m currently learning **Machine learning, Deep learning, and NLP**
-
-- 👯 I’m looking to collaborate on **Machine learning projects**
-
 - 👨‍💻 All of my projects are available at [https://nikhilportfoliosite.netlify.app/](https://nikhilportfoliosite.netlify.app/)
 
 - 📫 How to reach me **nikhilgattu16@gmail.com**
